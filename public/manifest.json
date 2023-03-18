@@ -25,13 +25,6 @@
     }
   },
   "commands": {
-    "open-warp": {
-      "suggested_key": {
-        "default": "Ctrl+Shift+K",
-        "mac": "Command+Shift+K"
-      },
-      "description": "Open Warp command-bar"
-    }
   },
   "icons": {
     "16": "assets/images/get_started16.png",
